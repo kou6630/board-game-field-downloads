@@ -1,17 +1,31 @@
-# ボードゲームフィールド 参加者用 v0.5.6
+# ボードゲームフィールド v0.5.7
 
-Windows用の参加者アプリです。インストール不要です。
+Windows用アプリです。インストール不要です。
 
-1. `BoardGameField-guest.exe`をダウンロードして起動します。
+1. [参加者用アプリをダウンロード](https://github.com/kou6630/board-game-field-downloads/releases/latest/download/BoardGameField-guest.exe)して起動します。
 2. 初回は名前を入力して「はじめる」を押します。
 3. 「部屋に入る」を選び、ホストから届いた招待コードを貼り付けます。
 
 ホストが部屋を開いている間に参加してください。
 
-## ダウンロード
+[ホスト用アプリをダウンロード](https://github.com/kou6630/board-game-field-downloads/releases/latest/download/BoardGameField-host.exe)
 
-[参加者用exeをダウンロード](https://github.com/kou6630/board-game-field-downloads/releases/latest/download/BoardGameField-guest.exe)
+## 今回の変更
 
-ファイルサイズ：156,169,181 bytes
+- ディジットコードの盤面を拡大。メモは青い斜線、確定情報は赤で表示。
+- 普段はメモ操作。「質問します」を押してから質問する場所を選択。
+- 終了後に、自分の入力・メモと正解を比較。
+- 自分の手番に1秒間、血文字風の「あなたの番でス。」を表示。
+- 起動時に最新版を確認。「更新する」でダウンロード・入れ替え・再起動。
 
-SHA-256：`0c5d7ded133d31de218021ac5b7c3afd52c17bad835c5c79473f37ae7397229a`
+更新機能はv0.5.7から対応します。以前の版からは一度、この最新版をダウンロードしてください。更新案内は対戦中には表示しません。
+
+## ファイルの確認
+
+参加者用：156167774 bytes
+
+SHA-256：3ce807da46a358046282c283ff4c8648b9a4ec7c3d4019cdf82d3654e2953024
+
+ホスト用：156172881 bytes
+
+SHA-256：7b1f2822e9d1806824c0a4719768826514e856cdfb47b0daee68dbb5da9af9d3
